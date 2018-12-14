@@ -1,4 +1,4 @@
-Put websights we used here:
+Put websites we used here:
 
 Hass Avocado Board. 2018. Retrieved from http://www.hassavocadoboard.com/retail/volume-and-price-data.
 
@@ -9,3 +9,5 @@ United States Department of Agriculture. National Agricultural Statistics Servic
 California Avovados. 2018. Fresh California Avocados. Retreived from https://www.californiaavocado.com/?gclid=EAIaIQobChMIm4OJ78md3gIVGLbACh0BeQQgEAAYASAAEgKG-_D_BwE&gclsrc=aw.ds.
 
 EPA. 2018. CALIFORNIA AVOCADOS Retreived from https://www.epa.gov/sites/production/files/2015-09/ca_avocado.doc.
+
+California Avocado Commission: https://www.californiaavocadogrowers.com/growing/how-california-avocado-tree-grows/avocado-fruit-growth
