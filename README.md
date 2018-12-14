@@ -11,6 +11,10 @@ You can find all data in the apt-ly named `data` directory.
 
 ## Data
 
+### Final Results
+
+See the spreadsheet of final results in detail in `final_results.xlsx`.
+
 ### Climate
 
 The climate data is sourced from NOAA and parsed/aggregated using the two python scripts found in `data/climate/*.py`.
